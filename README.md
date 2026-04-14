@@ -1,0 +1,2 @@
+# Data-Science-Project-Titanic-Survival-Prediction
+This project focuses on analyzing the Titanic dataset and building a machine learning model to predict whether a passenger survived or not. It covers the complete data science pipeline from data preprocessing to visualization and prediction.
